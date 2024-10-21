@@ -1,0 +1,16 @@
+station_id,station_name,state,city,station_type
+1,Iju Station,Lagos,Ifako Ijaiye,Commuter
+2,Lateef Jakande,Lagos,Ifako Ijaiye,Commuter
+3,Babatunde Raji Fashola Station,Lagos,Agege,Commuter/Intercity
+4,Ikeja Station,Lagos,Ikeja,Commuter
+5,Onipanu Station,Lagos,Onipanu,Commuter
+6,Yaba Rail Station,Lagos,Yaba,Commuter
+7,Alagomeji Train Station,Lagos,Yaba,Commuter/Intercity
+8,Mobolaji Station,Lagos,Yaba,Commuter
+9,Brigadier General Mobolaji Johnson Train Station,Lagos,Yaba,Commuter
+10,Ebute-Metta Junction Railway Station,Lagos,Ebute-Metta,Commuter
+11,Lagos Railway Station,Lagos,Lagos Mainland,Commuter/Intercity
+12,Iganmu Blueline Train Station,Lagos,Iganmu,Commuter
+13,Suru Alaba Railway station,Lagos,Amuwo Odofin,Commuter
+14,Apapa Train Station,Lagos,Apapa,Commuter/Freight
+15,Blue Line Marina Train Station,Lagos,Lagos Island,Commuter

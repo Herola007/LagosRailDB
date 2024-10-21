@@ -1,0 +1,10 @@
+maintenance_id,train_number,station_id,maintenance_type,maintenance_date,description,cost,technician_id
+acb0bef5-933c-4dc4-90db-4a0bfd4ed484,3144,4,repair,2024-10-01,Full engine replacement and tuning,5000.00,1
+4d436dc4-8f18-4f0b-83aa-287995d8776c,3900,4,routine check,2024-10-03,Checked and replaced worn brake pads,1500.00,6
+8d7c64f7-479d-405e-8f23-ac0c3807da8a,3144,4,repair,2024-10-05,Changed engine oil and filter,300.00,9
+3d1272f2-c165-4eb8-97ea-bfc60c8b5376,3900,4,repair,2024-10-07,Fixed cooling system in passenger cabin,800.00,13
+9b6b7c4d-c78e-4daa-b3a0-73a028060b96,3144,4,routine check,2024-10-09,Aligned all train wheels for smooth travel,1200.00,16
+1c10978c-2065-4dd4-b6b2-9299dcc8e3e9,3900,4,routine check,2024-10-11,Upgraded the signal systems for better communication,4500.00,22
+60a5f41b-a2be-4b8e-aeb8-e6176b480c18,3144,4,repair,2024-10-13,Cleared debris and performed routine track maintenance,1000.00,25
+b324e599-cfa6-41a4-80a9-2f906dc0cfc4,3900,4,repair,2024-10-15,Checked and repaired electrical wiring,700.00,28
+71b87735-2ada-4c06-83f1-d1b18695ae25,3144,4,routine check,2024-10-17,Ran diagnostics and fixed minor engine issues,400.00,32

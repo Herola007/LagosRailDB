@@ -1,0 +1,48 @@
+cargo_id,train_number,sender_name,receiver_name,origin_station_id,destination_station_id,cargo_description,weight,delivery_status
+1,1900,Aza,Monday,14,12,boxes,12,delivered
+2,1900,Ali,Sunday,14,12,Fish boxes,12,delivered
+3,2300,Bola,Ahmed,14,5,Electronics,50,in-transit
+4,4300,Zainab,Chidi,14,9,Furniture,120,delivered
+5,1900,Emeka,Grace,14,7,Books,30,in-transit
+6,2300,Hassan,Yusuf,14,10,Clothes,25,delivered
+7,4300,Fatima,Bisi,14,3,Vegetables,20,in-transit
+8,1900,Kemi,Ibrahim,14,2,Fruits,15,delivered
+9,2300,John,Musa,14,6,Toys,40,in-transit
+10,4300,Yusuf,Amina,14,11,Building materials,150,delivered
+11,1900,Tunde,Ngozi,14,8,Medicines,10,in-transit
+12,2300,Amaka,Tayo,14,1,Shoes,35,delivered
+13,4300,Michael,Abdul,14,13,Bags of rice,200,in-transit
+14,1900,Rita,Sani,14,15,Boxes of tea,45,delivered
+15,2300,Efe,Gbenga,14,2,Cement,180,in-transit
+16,4300,Nkechi,Ayo,14,3,Cereals,70,delivered
+17,1900,Lekan,Uche,14,5,Soda bottles,25,in-transit
+18,2300,Maryam,Bashir,14,6,Bread loaves,30,delivered
+19,4300,Joy,Shola,14,7,Tires,90,in-transit
+20,1900,Habib,Kalu,14,9,Plastic chairs,110,delivered
+21,2300,Peace,Obi,14,10,Paint buckets,55,in-transit
+22,4300,Adewale,Nura,14,12,Metal pipes,140,delivered
+23,1900,Ijeoma,Seun,14,11,Cartons of milk,50,in-transit
+24,2300,Chinyere,Wale,14,8,Steel rods,170,delivered
+25,4300,Hakeem,Dami,14,13,Gas cylinders,60,in-transit
+26,1900,Chioma,Sule,14,15,Shoes,32,delivered
+27,2300,Paul,Umar,14,2,Kitchenware,45,in-transit
+28,4300,Segun,Ladi,14,3,Household appliances,80,delivered
+29,1900,Samuel,Abiola,14,5,Pesticides,22,in-transit
+30,2300,Deborah,Mohammed,14,6,Office furniture,125,delivered
+31,4300,Salma,Jide,14,7,Glassware,70,in-transit
+32,1900,Ibrahim,Kemi,14,9,Medical equipment,140,delivered
+33,2300,Rebecca,Tope,14,10,Rice sacks,250,in-transit
+34,4300,Opeyemi,Femi,14,12,Cooking oil,100,delivered
+35,1900,Favour,Ade,14,11,Spices,28,in-transit
+36,2300,Sodiq,Peter,14,8,Vegetable oil,75,delivered
+37,4300,Ebuka,Joy,14,13,Batteries,33,in-transit
+38,1900,Kehinde,Tosin,14,15,Plastic containers,85,delivered
+39,2300,Janet,Kunle,14,2,Televisions,40,in-transit
+40,4300,Francis,Chioma,14,3,Frozen foods,60,delivered
+41,1900,Solomon,Ola,14,5,Soft drinks,20,in-transit
+42,2300,Ngozi,Mimi,14,6,Ceramics,55,delivered
+43,4300,Victor,Ruth,14,7,Candles,18,in-transit
+44,1900,Benedict,Dan,14,9,Cardboard boxes,60,delivered
+45,2300,Kunle,Wole,14,10,Fabric rolls,150,in-transit
+46,4300,Sule,Adeola,14,12,Cosmetics,65,delivered
+47,1900,Chukwuma,Niyi,14,11,Machinery parts,90,in-transit

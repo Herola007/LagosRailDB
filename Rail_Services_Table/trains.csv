@@ -1,0 +1,12 @@
+train_id,train_number,train_type,capacity,manufacturer,service_status
+1,4444,express,1200,CRRC Corporation Limited (China),active
+2,2222,local,400,Stadler Rail (Switzerland),active
+3,1144,express,1500,CRRC Corporation Limited (China),active
+4,2122,local,400,Stadler Rail (Switzerland),active
+5,2244,express,1500,CRRC Corporation Limited (China),active
+6,2522,local,350,Siemens (Germany),active
+7,3144,express,2000,CRRC Corporation Limited (China),under maintenance
+8,1900,cargo,5000,Bombardier (Canada),active
+9,2300,cargo,3300,Bombardier (Canada),active
+10,3900,cargo,5000,Bombardier (Canada),under maintenance
+11,4300,cargo,3900,Bombardier (Canada),active

@@ -1,0 +1,15 @@
+route_id,route_name,origin_station_id,destination_station_id,active_status
+1,Blue Line,15,10,active
+2,Blue Line,15,12,active
+3,Blue Line,15,11,active
+4,Blue Line,15,13,active
+5,Blue Line,15,14,active
+6,Red Line,2,1,active
+7,Red Line,2,3,active
+8,Red Line,2,4,active
+9,Red Line,2,14,active
+10,Red Line,4,9,active
+11,Blue Line,15,6,active
+12,Blue Line,15,5,active
+13,Red Line,4,7,active
+14,Blue Line,15,8,active

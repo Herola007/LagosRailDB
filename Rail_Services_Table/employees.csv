@@ -1,0 +1,44 @@
+employee_id,first_name,last_name,job_role,assigned_station,email,phone_number,hire_date
+1,Ade,Tijani,Technician,2,adetijj@gmail.com,090112011,2023-09-12
+2,Bola,Sosyy,Customer Care,4,bolasosyy@his.com,090221111,2022-12-10
+3,Adebayo,Ogunleye,Station Manager,7,adebayo.ogunleye@train.com,09032012345,2023-05-01
+4,Nkechi,Eze,Ticketing Officer,5,nkechi.eze@train.com,09054123456,2022-11-10
+5,Femi,Ajayi,Engineer,13,femi.ajayi@train.com,09067234567,2023-02-14
+6,Chinedu,Nwosu,Technician,3,chinedu.nwosu@train.com,09071098765,2021-08-21
+7,Tolu,Bamidele,Customer Care,6,tolu.bamidele@train.com,09088121212,2022-09-10
+8,Ada,Onwuka,Security Officer,2,ada.onwuka@train.com,09091234567,2023-01-17
+9,Segun,Lawal,Technician,12,segun.lawal@train.com,09012345678,2022-07-19
+10,Ola,Adebisi,Station Assistant,8,ola.adebisi@train.com,09043218765,2023-03-12
+11,David,Uche,Engineer,15,david.uche@train.com,09065432123,2021-12-05
+12,Ruth,Bello,Customer Care,10,ruth.bello@train.com,09071134567,2023-07-23
+13,Emeka,Chukwu,Technician,4,emeka.chukwu@train.com,09082112345,2021-04-19
+14,Kemi,Olaniyan,Ticketing Officer,9,kemi.olaniyan@train.com,09052198765,2023-02-25
+15,Chigozie,Adenuga,Security Officer,11,chigozie.adenuga@train.com,09091123456,2022-06-03
+16,Funmi,Fashola,Technician,14,funmi.fashola@train.com,09064356789,2023-04-13
+17,Gbenga,Adeyemi,Engineer,1,gbenga.adeyemi@train.com,09071234567,2021-09-21
+18,Aisha,Muhammed,Station Assistant,5,aisha.muhammed@train.com,09074198765,2022-03-15
+19,Oyin,Adeolu,Customer Care,7,oyin.adeolu@train.com,09051212345,2022-01-27
+20,Chinyere,Okoro,Security Officer,3,chinyere.okoro@train.com,09063123456,2021-11-11
+21,Segun,Taiwo,Engineer,12,segun.taiwo@train.com,09073198765,2023-07-29
+22,Bimpe,Ajibola,Technician,6,bimpe.ajibola@train.com,09081112345,2022-12-18
+23,Musa,Bashir,Customer Care,4,musa.bashir@train.com,09092123456,2023-08-06
+24,Tunde,Agbaje,Engineer,8,tunde.agbaje@train.com,09091234567,2023-05-08
+25,Ngozi,Eze,Technician,14,ngozi.eze@train.com,09052123456,2023-03-14
+26,Amaka,Okafor,Station Assistant,5,amaka.okafor@train.com,09073212345,2022-04-27
+27,Dare,Adekunle,Ticketing Officer,9,dare.adekunle@train.com,09054198765,2023-01-06
+28,Bola,Olumide,Technician,11,bola.olumide@train.com,09061123456,2022-08-16
+29,Fisayo,Akinola,Customer Care,13,fisayo.akinola@train.com,09073298765,2021-10-30
+30,Yakubu,Mohammed,Engineer,2,yakubu.mohammed@train.com,09091234567,2021-05-17
+31,Victoria,Onyeka,Security Officer,7,victoria.onyeka@train.com,09052123456,2022-09-20
+32,Isiaka,Salami,Technician,15,isiaka.salami@train.com,09064198765,2023-06-21
+33,Racheal,Ogun,Ticketing Officer,10,racheal.ogun@train.com,09073123456,2022-02-11
+34,Gbenga,Fatai,Customer Care,3,gbenga.fatai@train.com,09061198765,2021-03-23
+35,Idris,Ojo,Engineer,6,idris.ojo@train.com,09072212345,2022-12-29
+36,Shola,Adedayo,Technician,4,shola.adedayo@train.com,09083212345,2023-07-02
+37,Oluchi,Nnamdi,Station Assistant,12,oluchi.nnamdi@train.com,09054123456,2022-05-08
+38,Folake,Olawale,Customer Care,9,folake.olawale@train.com,09062198765,2023-09-15
+39,Chinedu,Okeke,Engineer,7,chinedu.okeke@train.com,09073112345,2023-04-24
+40,Abdullahi,Usman,Security Officer,13,abdullahi.usman@train.com,09082123456,2022-07-10
+41,Joy,Ayo,Technician,11,joy.ayo@train.com,09062198765,2023-06-19
+42,Opeyemi,Adediran,Engineer,15,opeyemi.adediran@train.com,09074112345,2021-01-22
+43,Khadijat,Yusuf,Customer Care,1,khadijat.yusuf@train.com,09083298765,2021-07-06

@@ -1,0 +1,33 @@
+ticket_id,card_number,schedule_id,seat_number,ticket_class,fare_amount,booking_status
+1,12111,3,22,economy,300.00,confirmed
+2,13222,13,234,first class,2300.00,confirmed
+3,14432,25,312,first class,3200.00,confirmed
+4,43212,10,342,first class,4200.00,confirmed
+5,23122,34,290,first class,2900.00,confirmed
+6,32341,12,31,economy,500.00,confirmed
+7,54211,32,2,economy,320.00,confirmed
+8,43111,21,233,first class,2900.00,confirmed
+9,12112,32,433,first class,3200.00,confirmed
+10,54213,43,21,economy,600.00,confirmed
+11,65122,23,54,economy,450.00,confirmed
+12,91211,52,43,economy,900.00,confirmed
+13,90112,65,23,economy,450.00,confirmed
+14,21111,43,22,economy,350.00,confirmed
+15,65111,26,43,economy,500.00,confirmed
+16,76111,43,290,first class,4200.00,confirmed
+17,37888,12,32,economy,500.00,confirmed
+18,56611,55,21,economy,450.00,cancelled
+19,41123,55,34,economy,450.00,confirmed
+20,90150,11,110,first class,4200.00,confirmed
+21,54214,65,190,first class,3400.00,confirmed
+22,56299,56,230,first class,4200.00,confirmed
+23,36733,54,133,first class,3200.00,confirmed
+24,98987,34,250,first class,4300.00,cancelled
+25,41233,34,250,first class,4300.00,confirmed
+26,65418,44,22,economy,500.00,confirmed
+27,45278,54,24,economy,900.00,confirmed
+28,52555,65,244,first class,4200.00,confirmed
+29,45278,54,222,first class,4300.00,confirmed
+30,52555,43,122,first class,3400.00,confirmed
+31,76111,54,234,first class,4300.00,confirmed
+32,56299,24,200,first class,2300.00,confirmed

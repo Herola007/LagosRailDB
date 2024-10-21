@@ -1,0 +1,33 @@
+payment_id,ticket_id,payment_method,payment_date,payment_status
+1,1,mobile payment,2024-10-31,successful
+2,2,debit card,2024-10-28,successful
+3,3,mobile payment,2024-10-25,successful
+4,4,cash,2024-10-30,successful
+5,5,debit card,2024-10-20,successful
+6,6,mobile payment,2024-10-18,successful
+7,7,cash,2024-10-29,successful
+8,8,debit card,2024-10-26,successful
+9,9,mobile payment,2024-10-22,successful
+10,10,cash,2024-10-21,successful
+11,11,debit card,2024-10-19,successful
+12,12,mobile payment,2024-10-15,successful
+13,13,cash,2024-10-23,successful
+14,14,debit card,2024-10-16,successful
+15,15,mobile payment,2024-10-31,successful
+16,16,cash,2024-10-24,successful
+17,17,debit card,2024-10-27,successful
+18,18,mobile payment,2024-10-19,failed
+19,19,cash,2024-10-28,successful
+20,20,debit card,2024-10-22,successful
+21,21,mobile payment,2024-10-20,successful
+22,22,cash,2024-10-17,successful
+23,23,debit card,2024-10-25,successful
+24,24,mobile payment,2024-10-30,failed
+25,25,cash,2024-10-21,successful
+26,26,debit card,2024-10-23,successful
+27,27,mobile payment,2024-10-29,successful
+28,28,cash,2024-10-18,successful
+29,29,debit card,2024-10-17,successful
+30,30,mobile payment,2024-10-27,successful
+31,31,mobile payment,2024-10-15,successful
+32,32,cash,2024-10-26,successful
